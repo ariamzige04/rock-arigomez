@@ -1,0 +1,10 @@
+# Sitio web de Rock & EDM Festival -> Práctica 
+El proposito de este sitio es mostrar mis conocimientos. Se mustra información del evento junto con sus fechas. Tabien se muestra una galeria de imagenes donde si le das click se muestra una imagen mas grande. Al final se muestran los boletos disponibles.
+
+Se utilizó las tecnologias HTML, CSS, JavaScript, Gulp y SASS.
+
+Instrucciones para instalar:
+Solo descargar
+
+Sitio web: 
+https://sparkly-starlight-d3d7f7.netlify.app/
