@@ -4,7 +4,9 @@ El proposito de este sitio es mostrar mis conocimientos. Se mustra información 
 Se utilizó las tecnologias HTML, CSS, JavaScript, Gulp y SASS.
 
 Instrucciones para instalar:
-Solo descargar
+Descargar todos los archivos.
+Despues instalar node modules con el comando npm install
+
 
 Sitio web: 
 https://sparkly-starlight-d3d7f7.netlify.app/
